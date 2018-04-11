@@ -1,0 +1,112 @@
+/* Universal Styles */
+
+
+
+body {
+  background-color: hsla(50, 33%, 25%, .75);
+  align-items: center;
+  background-image: url("https://i.imgur.com/V8coSg9.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-repeat:no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.image-container {
+  max-width: 100%;
+  height: auto;
+  align-items: center;
+
+}
+
+.image-container img {
+  width: 540px;
+  height: auto
+  align-items: center;
+     }
+
+/* Banner Section */
+
+#banner {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+#banner h1 {
+
+  font-family: 'Roboto', sans-serif;
+  font-weight: 300;
+  color: white;
+}
+
+/* Blog Post */
+
+#blog {
+
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#blog .post {
+
+
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-family: 'Merriweather', serif;
+  font-weight: 300;
+  font-size: 1rem;
+  text-align: center;
+  line-height: 1.8;
+  color: white;
+}
+
+.post h2 {
+
+
+}
+
+.post h3 {
+
+  color: white;
+}
+
+.post .opening-line {
+  margin-top: 4.1875rem;
+  margin-bottom: 1.5rem;
+  color: white;
+  font-weight: bold;
+}
+
+.post .image-container {
+
+}
+
+/* Blog Images */
+
+.images {
+}
+.images .image-container {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+img.resize {
+    width:540px;
+    height: auto;
+  }
+/* Footer */
+
+footer {
+  padding: 4rem 0;
+  border-top: 1px solid #999999;
+  font-family: 'Roboto', sans-serif;
+  color: #999999;
+  text-align: center;
+}
