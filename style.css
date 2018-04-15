@@ -63,13 +63,9 @@ body {
   color: silver;
 }
 
-.post h2 {
-
-
-}
-
-.post h3 {
-
+.post h2, h3, h4, h5, h6 {
+  text-align: center;
+  font-size: 16px;
   color: silver;
 }
 
