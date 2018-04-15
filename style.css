@@ -49,9 +49,6 @@ body {
 }
 
 #blog .post {
-
-
-
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -63,7 +60,7 @@ body {
   color: silver;
 }
 
-.post h2, h3, h4, h5, h6 {
+.post h2, h3 {
   text-align: center;
   font-size: 20px;
   color: silver;
