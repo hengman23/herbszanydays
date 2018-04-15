@@ -7,8 +7,7 @@ body {
   background-repeat:no-repeat;
   background-position: center;
   background-size: cover;
-  color: silver;
-}
+  }
 
 .image-container {
   max-width: 100%;
@@ -93,6 +92,7 @@ body {
   display: block;
   max-width: 100%;
   height: auto;
+  color: silver;
 }
 img.resize {
     width:540px;
