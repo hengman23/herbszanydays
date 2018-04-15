@@ -1,7 +1,4 @@
 /* Universal Styles */
-
-
-
 body {
   align-items: center;
   background-image: url("https://i.imgur.com/V8coSg9.jpg");
@@ -73,13 +70,13 @@ body {
 
 .post h3 {
 
-  color: white;
+  color: silver;
 }
 
 .post .opening-line {
   margin-top: 4.1875rem;
   margin-bottom: 1.5rem;
-  color: white;
+  color: silver;
   font-weight: bold;
 }
 
