@@ -12,7 +12,6 @@ body {
   max-width: 100%;
   height: auto;
   align-items: center;
-
 }
 
 .image-container img {
@@ -31,7 +30,6 @@ body {
 }
 
 #banner h1 {
-
   font-family: 'Roboto', sans-serif;
   font-weight: 300;
   color: white;
@@ -40,7 +38,6 @@ body {
 /* Blog Post */
 
 #blog {
-
   margin: auto;
   display: flex;
   flex-direction: column;
@@ -96,6 +93,6 @@ footer {
   padding: 4rem 0;
   border-top: 1px solid #999999;
   font-family: 'Roboto', sans-serif;
-  color: #999999;
+  color: white;
   text-align: center;
 }
