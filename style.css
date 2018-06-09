@@ -6,6 +6,8 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
   background: url(https://cdn.glitch.com/4f83b17b-3d9a-4782-bfb9-3298fce7ff84%2Fstormynight.jpg?1516228334292);
+  font-family: arial;
+  text-align: center;
     }
 
 .image-container {
