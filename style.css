@@ -5,10 +5,8 @@ body {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  transition-property: background-color;
-  transition-duration: 2s;
-  color: rebeccapurple;
-  }
+  background: url(https://cdn.glitch.com/4f83b17b-3d9a-4782-bfb9-3298fce7ff84%2Fstormynight.jpg?1516228334292);
+    }
 
 .image-container {
   max-width: 100%;
