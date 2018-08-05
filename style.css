@@ -4,7 +4,7 @@ body {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  background: url(https://orig00.deviantart.net/ed45/f/2015/114/4/5/psychedelic_wallpaper_ii_by_eccoarts-d8qv71z.jpg);
+  background: url(http://globalcommunicate.com/wp-content/uploads/2015/09/BlueSky_Island.jpg);
   font-family: arial;
   text-align: center;
     }
@@ -28,14 +28,14 @@ body {
   justify-content: center;
   align-items: center;
   text-align: center;
-  color: Aquamarine;
+  color: Black;
 }
 
 #banner h1 {
   font-family: 'Roboto', sans-serif;
   font-weight: 300;
   text-decoration: underline; 
-  color: Aquamarine;
+  color: Black;
 }
 
 /* Blog Post */
@@ -45,7 +45,7 @@ body {
   display: flex;
   flex-direction: column;
   align-items: center;
-  color: Aquamarine;
+  color: Black;
 }
 
 #blog .post {
@@ -57,20 +57,20 @@ body {
   font-size: 1rem;
   text-align: center;
   line-height: 1.8;
-  color: Aquamarine;
+  color: Black;
   }
 
 .post h2, h3 {
   text-align: center;
   font-size: 20px;
-  color: Aquamarine;
+  color: Black;
  }
 
 .post .opening-line {
   margin-top: 4.1875rem;
   margin-bottom: 1.5rem;
   font-weight: bold;
-  color: Aquamarine;
+  color: Black;
 }
 
 .post .image-container {
@@ -97,5 +97,5 @@ footer {
   border-top: 1px solid #999999;
   font-family: 'Roboto', sans-serif;
   text-align: center;
-  color: Aquamarine;
+  color: Black;
 }
