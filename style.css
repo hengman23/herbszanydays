@@ -4,7 +4,7 @@ body {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  background: url(http://globalcommunicate.com/wp-content/uploads/2015/09/BlueSky_Island.jpg);
+  background: url(http://www.pptbackgrounds.org/uploads/yellow-autumn-powerpoint-backgrounds.jpg);
   font-family: arial;
   text-align: center;
     }
@@ -55,13 +55,13 @@ body {
   font-family: 'Merriweather', serif;
   font-weight: 300;
   font-size: 1rem;
-  text-align: center;
+  text-align: left;
   line-height: 1.8;
   color: Black;
   }
 
 .post h2, h3 {
-  text-align: center;
+  text-align: left;
   font-size: 20px;
   color: Black;
  }
@@ -96,6 +96,6 @@ footer {
   padding: 4rem 0;
   border-top: 1px solid #999999;
   font-family: 'Roboto', sans-serif;
-  text-align: center;
+  text-align: left;
   color: Black;
 }
