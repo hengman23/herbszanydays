@@ -32,7 +32,7 @@ body {
 }
 
 #banner h1 {
-  font:italic bold 12px/30px Georgia, serif;
+  font:italic bold 16px/30px Georgia, serif;
   text-decoration: underline; 
   color: Red;
 }
@@ -51,7 +51,7 @@ body {
   display: flex;
   flex-direction: column;
   align-items: center;
-  font:italic bold 12px/30px Georgia, serif;
+  font:italic bold 16px/30px Georgia, serif;
   text-align: center;
   line-height: 1.8;
   color: Red;
@@ -59,14 +59,14 @@ body {
 
 .post h2, h3 {
   text-align: left;
-  font:italic bold 12px/30px Georgia, serif;
+  font:italic bold 16px/30px Georgia, serif;
   color: Red;
  }
 
 .post .opening-line {
   margin-top: 4.1875rem;
   margin-bottom: 2.5rem;
-  font:italic bold 12px/30px Georgia, serif;
+  font:italic bold 16px/30px Georgia, serif;
   color: Red;
 
 .post .image-container {
@@ -92,7 +92,7 @@ img.resize {
 footer {
   padding: 4rem 0;
   border-top: 1px solid #999999;
-  font:italic bold 12px/30px Georgia, serif;
+  font:italic bold 16px/30px Georgia, serif;
   text-align: center;
   color: Red;
 }
