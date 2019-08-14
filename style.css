@@ -28,14 +28,14 @@ body {
   justify-content: center;
   align-items: center;
   text-align: center;
-  color: Black;
+  color: gray;
 }
 
 #banner h1 {
   font-family: 'Roboto', sans-serif;
   font-weight: 300;
   text-decoration: underline; 
-  color: Black;
+  color: gray;
 }
 
 /* Blog Post */
@@ -45,7 +45,7 @@ body {
   display: flex;
   flex-direction: column;
   align-items: center;
-  color: Black;
+  color: gray;
 }
 
 #blog .post {
@@ -57,20 +57,20 @@ body {
   font-size: 1rem;
   text-align: center;
   line-height: 1.8;
-  color: Black;
+  color: gray;
   }
 
 .post h2, h3 {
   text-align: left;
   font-size: 20px;
-  color: Black;
+  color: gray;
  }
 
 .post .opening-line {
   margin-top: 4.1875rem;
   margin-bottom: 1.5rem;
   font-weight: bold;
-  color: Black;
+  color: gray;
 }
 
 .post .image-container {
@@ -98,5 +98,5 @@ footer {
   border-top: 1px solid #999999;
   font-family: 'Roboto', sans-serif;
   text-align: center;
-  color: Black;
+  color: gray;
 }
